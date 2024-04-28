@@ -2,8 +2,11 @@
 Ludo made in C++ using sfml
 # Contains
   Solo / Team
+  
   Upto 6 Players
+  
   Upto 4 Pieces per player
+  
   Stunning Visuals ( i'm sorry )
 # Note
 1) When you select Teams it autmatically makes teams of the first X players. Team players can move each others pieces but cannot unlock them and cannot kill them.
